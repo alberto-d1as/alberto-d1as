@@ -6,6 +6,5 @@
 #### So, never stop.
 
 ### 🚀 Learning...
-- [ ] Frameworks Adianti | Laravel 
 - [ ] Bootstrap
 - [ ] MVC
