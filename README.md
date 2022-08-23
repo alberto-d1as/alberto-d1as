@@ -6,5 +6,4 @@
 #### So, never stop.
 
 ### 🚀 Learning...
-- [ ] Bootstrap
-- [ ] MVC
+- [ ] Python
