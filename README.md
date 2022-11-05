@@ -1,4 +1,4 @@
-# Developer | PHP
+# Developer
 
 #### Hi, I'm Alberto. 
 #### In love for technology and world of finances. 
